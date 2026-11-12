@@ -105,7 +105,7 @@ npm install          # or: open index.html directly
 npm run dev
 ```
 
-Open **http://localhost:3000** and you're live.
+Open **https://joyful-croquembouche-975df3.netlify.app** and you're live.
 
 ---
 
